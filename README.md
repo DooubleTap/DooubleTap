@@ -44,9 +44,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DooubleTap's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DooubleTap" />
+  <img align="left" alt="DooubleTap's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DooubleTap&theme=gruvbox&show_icons=true" />
 
 </details>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [website]: http://seb7.ca
 [Discord]: http://discord.gg/secretlife
