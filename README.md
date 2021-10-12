@@ -1,6 +1,6 @@
 ### Hi there, I'm Seb - aka [DooubleTap][website] 👋
 
-[![Website](https://img.shields.io/website?label=DooubleTap.ovh&style=for-the-badge&url=https%3A%2F%2F)](http://dooubletap.ovh)
+[![Website](https://img.shields.io/website?label=http://seb7.ca&style=for-the-badge&url=https%3A%2F%2F)](http://seb7.ca)
 
 ## I'm a Gamer and Developer!!
 
@@ -49,8 +49,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[Discord]: http://discord.gg`secretlife
+[website]: http://seb7.ca
+[Discord]: http://discord.gg/secretlife
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
