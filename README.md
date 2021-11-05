@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=http://seb7.ca&style=for-the-badge&url=http://seb7.ca)](http://seb7.ca)
 
-## I'm a Gamer and Developer!!
+## I'm a Gamer and trying to become a Developer!!
 
 - 🌱 I’m currently learning everything FiveM Related! 🤣
 - 👯 I’m looking to collaborate with other content creators
