@@ -1,6 +1,6 @@
 ### Hi there, I'm Seb - aka [DooubleTap][website] 👋
 
-[![Website](https://img.shields.io/website?label=https://gg.distyle.xyz&style=for-the-badge&url=https://gg.distyle.xyz/)](https://gg.distyle.xyz/)
+Join my discord: [![Website](https://img.shields.io/website?label=https://gg.distyle.xyz&style=for-the-badge&url=https://gg.distyle.xyz/)](https://gg.distyle.xyz/)
 
 ## I'm a Gamer and trying to become a Developer!!
 
@@ -22,5 +22,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooubleTap&show_icons=true&theme=radical)
 
-[website]: http://seb7.ca
-[Discord]: http://discord.gg/secretlife
+[website]: https://gg.distyle.xyz
+[Discord]: https://gg.distyle.xyz
