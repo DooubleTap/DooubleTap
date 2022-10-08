@@ -1,12 +1,12 @@
 ### Hi there, I'm Seb - aka [DooubleTap][website] 👋
 
-Join my discord: [![Website](https://img.shields.io/website?label=https://gg.distyle.xyz&style=for-the-badge&url=https://gg.distyle.xyz/)](https://gg.distyle.xyz/)
+[![Website](https://img.shields.io/website?label=https://gg.distyle.xyz&style=for-the-badge&url=https://gg.distyle.xyz/)](https://gg.distyle.xyz/)
 
 ## I'm a Gamer and trying to become a Developer!!
 
 - 🌱 I’m currently learning everything FiveM Related! 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to amazing Fivem resources
+- 🥅 2022 Goals: Contribute more to amazing Fivem resources
 
 ### Connect with me:
 
