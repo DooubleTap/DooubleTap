@@ -1,6 +1,6 @@
 ### Hi there, I'm Seb - aka [DooubleTap][website] 👋
 
-[![Website](https://img.shields.io/website?label=http://seb7.ca&style=for-the-badge&url=http://seb7.ca)](http://seb7.ca)
+[![Website](https://img.shields.io/website?label=https://gg.distyle.xyz&style=for-the-badge&url=https://gg.distyle.xyz/)](https://gg.distyle.xyz/)
 
 ## I'm a Gamer and trying to become a Developer!!
 
