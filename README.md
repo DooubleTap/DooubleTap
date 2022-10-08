@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning everything FiveM Related! 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to amazing Fivem resources
-- ⚡ Fun fact: I am on IRC since 1998, even to this day.
 
 ### Connect with me:
 
