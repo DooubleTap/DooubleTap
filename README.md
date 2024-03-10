@@ -1,14 +1,8 @@
-### Hi there, I'm Seb - aka [DooubleTap][website] 👋
+### Hi there, I'm Seb - aka [ÐooubleTap][website] 👋
 
-[![Website](https://img.shields.io/website?label=https://gg.distyle.xyz&style=for-the-badge&url=https://gg.distyle.xyz/)](https://gg.distyle.xyz/)
+- 🌱 I'm a Gamer who loves roleplay!
 
-## I'm a Gamer who loves roleplay!
-
-- 🌱 I’m currently learning everything FiveM & RedM Related! 🤣
-
-### Connect with me:
-
-[<img align="left" alt="Discord.gg/secretlife" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="https://discord.com/users/76182535192715264" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -20,5 +14,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooubleTap&show_icons=true&theme=radical)
 
-[website]: https://quantrix.xyz
+[website]: https://docs.quantrix.xyz
 [Discord]: https://quantrix.xyz
