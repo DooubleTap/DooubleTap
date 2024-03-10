@@ -2,11 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=https://gg.distyle.xyz&style=for-the-badge&url=https://gg.distyle.xyz/)](https://gg.distyle.xyz/)
 
-## I'm a Gamer and trying to become a Developer!!
+## I'm a Gamer who loves roleplay!
 
-- 🌱 I’m currently learning everything FiveM Related! 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to amazing Fivem resources
+- 🌱 I’m currently learning everything FiveM & RedM Related! 🤣
 
 ### Connect with me:
 
