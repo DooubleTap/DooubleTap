@@ -6,3 +6,5 @@
 
 [website]: https://discord.com/users/76182535192715264
 [Discord]: https://quantrix.xyz
+
+Please note that some repos on my profile were cloned from other developers and are not all mine. 
