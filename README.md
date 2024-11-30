@@ -10,4 +10,5 @@ Find me on [FiveM] Or [Discord]
 [FiveM]: https://forum.cfx.re/u/dooubletap/summary
 [Discord]: https://discord.com/users/76182535192715264
 
-Please note that some repos on my profile were cloned from other developers and are not all mine. 
+Please note that some repos on my profile were forked from other developers and are not all mine. 
+If it's mine, it will say it in the README
