@@ -27,3 +27,6 @@ If it's mine, it will say it in the README
 [Pastebin]: https://pastebin.com/u/Seb
 [FiveM]: https://forum.cfx.re/u/dooubletap/summary
 [Discord]: https://discord.com/users/76182535192715264
+
+# Discord
+<a href='https://discord.gg/rpqc'>![Discord Banner 2](https://discordapp.com/api/guilds/1241527955587334245/widget.png?style=banner2)</a>
