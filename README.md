@@ -1,4 +1,6 @@
-### Hi there, I'm Seb - aka [ÐooubleTap][Discord] 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DooubleTap&label=Profile%20views&color=0e75b6&style=flat" alt="DooubleTap" /> </p>
+
+### Hi there, I'm Seb - aka [ÐooubleTap][Discord] 👋 
 Here is my [Pastebin]
 Find me on [FiveM] Or [Discord]
 
@@ -6,11 +8,7 @@ Find me on [FiveM] Or [Discord]
 Please note that some repos on my profile were forked from other developers and are not all mine. 
 If it's mine, it will say it in the README
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DooubleTap&label=Profile%20views&color=0e75b6&style=flat" alt="DooubleTap" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DooubleTap" alt="DooubleTap" /></a> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
