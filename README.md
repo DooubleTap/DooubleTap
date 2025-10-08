@@ -5,10 +5,7 @@ Here is my [Pastebin]
 Find me on [FiveM] Or [Discord]
 
 - 🌱 I'm a Gamer who loves roleplay!
-Please note that some repos on my profile were forked from other developers and are not all mine. 
-If it's mine, it will say it in the README
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DooubleTap&theme=discord" alt="DooubleTap" /></a> </p>
+- Please note that some repos on my profile were forked from other developers and are not all mine. If it's mine, it will say it in the README
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooubleTap&show_icons=true&theme=radical)
 
