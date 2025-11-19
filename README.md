@@ -7,6 +7,17 @@ Find me on [FiveM] Or [Discord]
 - 🌱 I'm a Gamer who loves roleplay!
 - Please note that some repos on my profile were forked from other developers and are not all mine. If it's mine, it will say it in the README
 
+## My Skills
+
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooubleTap)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooubleTap&show_icons=true&theme=radical)
 
 [Pastebin]: https://pastebin.com/u/Seb
@@ -15,3 +26,10 @@ Find me on [FiveM] Or [Discord]
 
 # Discord
 <a href='https://discord.gg/rpqc'>![Discord Banner 2](https://discordapp.com/api/guilds/1241527955587334245/widget.png?style=banner2)</a>
+
+## Connect with me
+
+<p align="center">
+  📧 <a href="mailto:seblemery@gmail.com">Email</a> •  
+  🐉 <a href="https://discord.com/users/76182535192715264" target="_blank">Discord</a>
+</p>
