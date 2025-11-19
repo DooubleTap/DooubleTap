@@ -8,7 +8,6 @@ My Roleplay server is: [RPQC]
 
 ## My Skills
 
-
 <img src="https://komarev.com/ghpvc/?username=DooubleTap&label=Profile%20views&color=0e75b6&style=flat" alt="DooubleTap" />
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
@@ -16,9 +15,10 @@ My Roleplay server is: [RPQC]
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+
 
 # Discord
+
 <a href='https://discord.gg/rpqc'>![Discord Banner 2](https://discordapp.com/api/guilds/1241527955587334245/widget.png?style=banner2)</a>
 
 https://discord.gg/rpqc
