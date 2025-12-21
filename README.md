@@ -4,7 +4,7 @@ Find me on [FiveM] Or [Discord]
 My Roleplay server is: [RPQC]
 
 - 🌱 I'm a Gamer who loves roleplay!
-- Please note that some repos on my profile were forked from other developers and are not all mine. If it's mine, it will say it in the README
+- Please note that some repos on my profile were forked from other developers and are not all mine. Some of them are also old codes i found online and added to github for safekeeping. If it's mine, it will say it in the README
 
 ## My Skills
 
