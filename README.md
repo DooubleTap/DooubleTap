@@ -19,7 +19,7 @@ My Roleplay server is: [RPQC]
 
 # Discord
 
-<a href='https://discord.gg/rpqc'>![Discord Banner 2](https://discordapp.com/api/guilds/1368443905040973834/widget.png?style=banner2)</a>
+<a href='https://discord.gg/xv6TT4srvt'>![Discord Banner 2](https://discordapp.com/api/guilds/1368443905040973834/widget.png?style=banner2)</a>
 
 https://discord.gg/xv6TT4srvt
 
