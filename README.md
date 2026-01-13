@@ -16,13 +16,6 @@ My Roleplay server is: [RPQC]
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 
-
-# Discord
-
-<a href='https://discord.gg/xv6TT4srvt'>![Discord Banner 2](https://discordapp.com/api/guilds/1368443905040973834/widget.png?style=banner2)</a>
-
-https://discord.gg/xv6TT4srvt
-
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
