@@ -7,7 +7,7 @@ My Roleplay server is: [RPQC]
 - Please note that some repos on my profile were forked from other developers and are not all mine. Some of them are also old codes i found online and added to github for safekeeping. If it's mine, it will say it in the README
 
 ## My Skills
-
+<p align="center">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
@@ -15,6 +15,12 @@ My Roleplay server is: [RPQC]
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,docker,c,vim,css,html,java,typescript,lua,mysql,arch,aws,bash,bootstrap,bsd,cloudflare,cmake,debian,discord,bots,discordjs,dotnet,gitlab,gmail,ai,instagram,kali,linux,md,mastodon,nodejs,perl,php,powershell,react,svg,ubuntu,vercel,vim,visualstudio,vscode,windows,wordpress,yarn" />
+  </a>
+</p>
 
 ## GitHub Stats
 
