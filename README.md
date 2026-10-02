@@ -32,7 +32,7 @@ My Roleplay server is: [RPQC]
 ## Connect with me
 
 <p align="center">
-  📧 <a href="mailto:seblemery@gmail.com">Email</a> •  
+  📧 <a href="mailto:seblemery@proton.me">Email</a> •  
   🐉 <a href="https://discord.com/users/76182535192715264" target="_blank">Discord</a>
 </p>
 
